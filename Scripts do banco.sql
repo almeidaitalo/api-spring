@@ -17,10 +17,6 @@ TABLESPACE pg_default;
 ALTER TABLE IF EXISTS public.usu_usuario
     OWNER to postgres;
 
-
-
-
-
 -- Table: public.ins_inscricao
 
 -- DROP TABLE IF EXISTS public.ins_inscricao;
@@ -51,9 +47,6 @@ TABLESPACE pg_default;
 ALTER TABLE IF EXISTS public.ins_inscricao
     OWNER to postgres;
 
-
-
-
 -- Table: public.cat_categoria
 
 -- DROP TABLE IF EXISTS public.cat_categoria;
@@ -74,10 +67,6 @@ TABLESPACE pg_default;
 
 ALTER TABLE IF EXISTS public.cat_categoria
     OWNER to postgres;
-
-
-
-
 
 -- Table: public.tor_torneio
 
